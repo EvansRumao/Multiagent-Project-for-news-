@@ -39,4 +39,5 @@ def scrape_url(url: str) -> str:
 
 
 
-# print(web_search.invoke("What is the capital of France?"))
+#print(web_search.invoke("What is the latest news on war"))
+#print(scrape_url.invoke("https://abc7ny.com/post/us-iran-war-news-israels-benjamin-netanyahu-wants-donald-trump-administration-carry-new-strikes-officials-tell-ap/20009648/"))
